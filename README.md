@@ -1,6 +1,6 @@
 nativeShare
 ======
-
+上传至github
 
 nativeShare是一个可以通过javascript直接调用原生分享的工具.
 
